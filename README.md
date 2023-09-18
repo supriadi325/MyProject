@@ -1,3 +1,1 @@
-#MyProject_Supriadi
-Namasaya Supriadi
-# MyProject
+Fuck you
