@@ -1,5 +1,4 @@
 # Supriadi-Radi
-# radi.allnet.id
 Portofolio
     - supriadi
     - Teknik Jaringan
